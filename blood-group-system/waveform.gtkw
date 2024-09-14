@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sun May 19 17:11:31 2024
+[*]
+[dumpfile] "/tmp/picsimlab-pUBjW9.vcd"
+[dumpfile_mtime] "Sun May 19 17:10:06 2024"
+[dumpfile_size] 162603
+[savefile] "/home/raesangur/github/nsec-2024/blood-group-system/waveform.gtkw"
+[timestart] 2219458000000
+[size] 2256 1436
+[pos] -625 -415
+*-30.000000 62331 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 211
+[signals_width] 292
+[sst_expanded] 1
+[sst_vpaned_height] 434
+@28
+logic.1-PB0/0
+@29
+logic.2-PB1/1
+[pattern_trace] 1
+[pattern_trace] 0
